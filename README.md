@@ -40,12 +40,14 @@ uart.v: Combines TX and RX functionality into a single module.
 ### Testbench
 - uart_tb.v: Simulates the complete UART module.
 - uart_tx_tb.v: Simulates the UART Transmitter module.
-Simulation Screenshots
-TX Simulation:
-![image](https://github.com/user-attachments/assets/b795de36-1ae7-4e38-b078-a2c292e121bd)
+## Simulation Screenshots
+- TX Simulation:
+  
+  ![image](https://github.com/user-attachments/assets/b795de36-1ae7-4e38-b078-a2c292e121bd)
 
-Overall UART Simulation:
-![image](https://github.com/user-attachments/assets/6d63220e-46e2-480a-8c41-3f6298f9a84e)
+- Overall UART Simulation:
+  
+  ![image](https://github.com/user-attachments/assets/6d63220e-46e2-480a-8c41-3f6298f9a84e)
 
 ## Prerequisites
 - A Verilog simulator (ModelSim, Vivado).
